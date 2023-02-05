@@ -10,6 +10,8 @@ import Category from "./Category/Category";
 import Filter from "./Filter/Filter";
 import NFTCard from "./NFTCard/NFTCard";
 import Collection from "./Collection/Collection";
+import AudioLive from "./AudioLive/AudioLive";
+import LikeProfile from "./LikeProfile/LikeProfile";
 
 
 export {
@@ -24,5 +26,7 @@ export {
     Category,
     Filter,
     NFTCard,
-    Collection
+    Collection,
+    AudioLive,
+    LikeProfile
 };

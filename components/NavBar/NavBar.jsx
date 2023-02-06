@@ -78,8 +78,8 @@ const NavBar = () => {
             <Image
               src={images.logo}
               alt="NFT MARKET PLACE"
-              width={100}
-              height={100}
+              width={50}
+              height={50}
             />
           </div>
           <div className={Style.navbar_container_left_box_input}>
